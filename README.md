@@ -29,39 +29,33 @@ List of pathological conditions:
 ### Application Components
 Used TensorFlow framework with Keras backend. Trained the model using DenseNet121 pretrained model in GPU.
 
-### Dependencies
-Python, TensorFlow, Keras, Pandas, Numpy
+### Dependencies (Python)
 
-h5py==2.10.0
-joblib==0.17.0
-jsonschema==3.2.0
-jupyter-client==6.1.7
-jupyter-core==4.7.0
-jupyterlab-pygments==0.1.2
-Keras==2.4.3
-Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work
-Keras-Preprocessing==1.1.2
-matplotlib==3.3.3
-notebook==6.1.5
-numpy==1.18.5
-oauthlib==3.1.0
-opencv-python==4.4.0.46
-pandas==1.1.4
-protobuf==3.13.0
-pywin32==300
-pywinpty==0.5.7
-PyYAML==5.3.1
-scikit-learn==0.23.2
-scipy==1.4.1
-seaborn==0.11.0
-sklearn==0.0
-tensorboard==2.2.2
-tensorboard-plugin-wit==1.7.0
-tensorflow==2.2.0
-tensorflow-estimator==2.2.0
-tensorflow-gpu==2.3.1
-tensorflow-gpu-estimator==2.3.0
-tornado==6.1
+h5py==2.10.0<br/>
+joblib==0.17.0<br/>
+jsonschema==3.2.0<br/>
+jupyter-client==6.1.7<br/>
+jupyter-core==4.7.0<br/>
+jupyterlab-pygments==0.1.2<br/>
+Keras==2.4.3<br/>
+Keras-Applications @ file:///tmp/build/80754af9/keras-applications_1594366238411/work<br/>
+Keras-Preprocessing==1.1.2<br/>
+matplotlib==3.3.3<br/>
+notebook==6.1.5<br/>
+numpy==1.18.5<br/>
+oauthlib==3.1.0<br/>
+opencv-python==4.4.0.46<br/>
+pandas==1.1.4<br/>
+scikit-learn==0.23.2<br/>
+scipy==1.4.1<br/>
+seaborn==0.11.0<br/>
+sklearn==0.0<br/>
+tensorboard==2.2.2<br/>
+tensorboard-plugin-wit==1.7.0<br/>
+tensorflow==2.2.0<br/>
+tensorflow-estimator==2.2.0<br/>
+tensorflow-gpu==2.3.1<br/>
+tensorflow-gpu-estimator==2.3.0<br/>
 
 ### Contributors:
 - Ideated by: Jishi P P
