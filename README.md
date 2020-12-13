@@ -1,7 +1,7 @@
 # Team_Pascal - haQathon 2020
 Medical Diagnosis with Deep Learning on Chest X-Ray
 
-![alt text](https://github.com/jishipp-repo/Team_Pascal/blob/main/image.jpg?raw=true)
+![alt text](https://github.com/jishipp-repo/Team_Pascal/blob/main/image.jpg?raw=true
 
 We will be using the ChestX-ray8 dataset which contains 108,948 frontal-view X-ray images of 32,717 unique patients. 
 -Each image in the data set contains multiple text-mined labels identifying 14 different pathological conditions. 
