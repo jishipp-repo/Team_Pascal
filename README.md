@@ -1,15 +1,7 @@
 # Team_Pascal - haQathon 2020
 ## Medical Diagnosis with Deep Learning on Chest X-Ray
 
-![alt text](https://github.com/jishipp-repo/Team_Pascal/blob/main/image.PNG)
-
-We will be using the ChestX-Ray dataset which contains 108,948 frontal-view X-ray images of 32,717 unique patients.<br/> 
-
-![alt text](https://github.com/jishipp-repo/Team_Pascal/blob/main/dataset_image.PNG)
-
-* Each image in the data set contains multiple text-mined labels identifying 14 different pathological conditions.<br/> 
-* We will use this data to develop a single model that will provide binary classification predictions for each of the 14 labeled pathologies.<br/> 
-* In other words it will predict 'positive' or 'negative' for each of the pathologies.<br/>
+We will be using the ChestX-Ray dataset which contains 108,948 frontal-view X-ray images of 32,717 unique patients. Each image in the data set contains multiple text-mined labels identifying 14 different pathological conditions. We will use this data to develop a single model that will provide binary classification predictions for each of the 14 labeled pathologies. In other words it will predict 'positive' or 'negative' for each of the pathologies.<br/>
 
 List of pathological conditions:
 - Atelectasis
@@ -27,3 +19,20 @@ List of pathological conditions:
 - Pneumonia	
 - Pneumothorax
 - No Finding	
+
+### Screenshots
+![alt text](https://github.com/jishipp-repo/Team_Pascal/blob/main/image.PNG)
+
+### Architecture
+![alt text](https://github.com/jishipp-repo/Team_Pascal/blob/main/densenet2.png)
+
+### Application Components
+Used TensorFlow framework with Keras backend. Trained the model using DenseNet121 pretrained model in GPU.
+
+### Dependencies
+Python, TensorFlow, Keras, Pandas, Numpy
+
+### Contributors:
+- Ideated by: Jishi P P
+- Mentor(s): Akhil Verma
+- Team: Jishi P P, Anitha Ch
